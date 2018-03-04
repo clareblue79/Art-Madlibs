@@ -1,6 +1,7 @@
 # Art-Madlibs
 
-##Wellesley College CS111 Final Project 
+## Wellesley College CS111 Final Project 
+
 **Developed by Clare Lee and Yuna Hahn**
 
 This program translates inputted text lyrics into modern art “Kandinski-style” graphics that will be displayed on the turtle canvas in a new window.
